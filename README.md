@@ -1,5 +1,7 @@
 # vita-agent-bridge
 
+**Write-up:** [mitchellv.me/work/vita-agent-bridge](https://www.mitchellv.me/work/vita-agent-bridge) · by [Mitchell Vizensky](https://www.mitchellv.me), game UX designer
+
 **See and control a PS Vita over the network, and let an AI agent do it.**
 
 A kernel plugin plus a TCP service that lives *inside* SceShell. It captures the
